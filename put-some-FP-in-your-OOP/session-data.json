@@ -1,0 +1,317 @@
+[
+ {
+   "Title": "12 Steps to an Agile Mindset",
+   "Speaker": "Sam O'Brien",
+   "Target Audience": "General",
+   "Genre": "Agile Methodologies",
+   "Is Vendor Session": "No",
+   "Keynote": "No",
+   "Copresenters": ""
+ },
+ {
+   "Title": "Add Intelligence to Your App with Computer Vision",
+   "Speaker": "Brian Sherwin",
+   "Target Audience": "Introduction",
+   "Genre": "Cloud Computing",
+   "Is Vendor Session": "No",
+   "Keynote": "No",
+   "Copresenters": ""
+ },
+ {
+   "Title": "agile Data Management Transformation That Drives Cloud Architecture",
+   "Speaker": "Jenifer Spencer",
+   "Target Audience": "General",
+   "Genre": "Scaling/Transformational Agile",
+   "Is Vendor Session": "No",
+   "Keynote": "No",
+   "Copresenters": ""
+ },
+ {
+   "Title": "Agile Leaders not Lemmings",
+   "Speaker": "Dinah Elliott-Mendez",
+   "Target Audience": "General",
+   "Genre": "Agile Experiences",
+   "Is Vendor Session": "Yes",
+   "Keynote": "No",
+   "Copresenters": "Panel Discussion with Dan Petrek, Alan Hand"
+ },
+ {
+   "Title": "Agile Scaling and Culture",
+   "Speaker": "chuck suscheck",
+   "Target Audience": "Intermediate",
+   "Genre": "Scaling/Transformational Agile",
+   "Is Vendor Session": "No",
+   "Keynote": "No",
+   "Copresenters": ""
+ },
+ {
+   "Title": "Agile Work Quality: TDD and Unit Tests",
+   "Speaker": "Keith Callis",
+   "Target Audience": "Introduction",
+   "Genre": "Agile Experiences",
+   "Is Vendor Session": "Yes",
+   "Keynote": "No",
+   "Copresenters": ""
+ },
+ {
+   "Title": "Breaking Out Of IT",
+   "Speaker": "Dan GreenLeaf",
+   "Target Audience": "Intermediate",
+   "Genre": "Scaling/Transformational Agile",
+   "Is Vendor Session": "No",
+   "Keynote": "No",
+   "Copresenters": "Elizabeth Tolia"
+ },
+ {
+   "Title": "Building Serverless Applications in AWS",
+   "Speaker": "Chris Judd",
+   "Target Audience": "Introduction",
+   "Genre": "Cloud Computing",
+   "Is Vendor Session": "No",
+   "Keynote": "No",
+   "Copresenters": ""
+ },
+ {
+   "Title": "Can Elephants Collaborate? Understanding the Three Keys to Breakthrough Teams",
+   "Speaker": "Mike Ackerbauer",
+   "Target Audience": "General",
+   "Genre": "Agile Experiences",
+   "Is Vendor Session": "No",
+   "Keynote": "No",
+   "Copresenters": "Tom Boulet"
+ },
+ {
+   "Title": "CardUnit: A Unit Testing Simulation",
+   "Speaker": "David Kane",
+   "Target Audience": "Intermediate",
+   "Genre": "Agile Methodologies",
+   "Is Vendor Session": "No",
+   "Keynote": "No",
+   "Copresenters": ""
+ },
+ {
+   "Title": "Cloud Solution Throwdown!",
+   "Speaker": "John Riley",
+   "Target Audience": "Intermediate",
+   "Genre": "Cloud Computing",
+   "Is Vendor Session": "No",
+   "Keynote": "No",
+   "Copresenters": "Karen Hatfield"
+ },
+ {
+   "Title": "Creating Eloquent Code",
+   "Speaker": "Joe Wirtley",
+   "Target Audience": "Introduction",
+   "Genre": "Other",
+   "Is Vendor Session": "No",
+   "Keynote": "No",
+   "Copresenters": ""
+ },
+ {
+   "Title": "Dockerize Your .NET Development",
+   "Speaker": "Lee Brandt",
+   "Target Audience": "Introduction",
+   "Genre": "Cloud Computing",
+   "Is Vendor Session": "No",
+   "Keynote": "No",
+   "Copresenters": ""
+ },
+ {
+   "Title": "Elephant Carpaccio – Creating More Value with Thinly Sliced User Stories",
+   "Speaker": "Michael Wallace",
+   "Target Audience": "Intermediate",
+   "Genre": "Agile Experiences",
+   "Is Vendor Session": "No",
+   "Keynote": "No",
+   "Copresenters": ""
+ },
+ {
+   "Title": "Experiments with Agile at Scale",
+   "Speaker": "Kevin Brinley",
+   "Target Audience": "Intermediate",
+   "Genre": "Scaling/Transformational Agile",
+   "Is Vendor Session": "No",
+   "Keynote": "No",
+   "Copresenters": ""
+ },
+ {
+   "Title": "Exploring REST Web Services",
+   "Speaker": "Mike Smith",
+   "Target Audience": "Introduction",
+   "Genre": "Other",
+   "Is Vendor Session": "No",
+   "Keynote": "No",
+   "Copresenters": ""
+ },
+ {
+   "Title": "FeatureBan - A simulation to introduce Kanban basics",
+   "Speaker": "David Kane",
+   "Target Audience": "Introduction",
+   "Genre": "Agile Methodologies",
+   "Is Vendor Session": "No",
+   "Keynote": "No",
+   "Copresenters": ""
+ },
+ {
+   "Title": "Hands-On Flow Metrics",
+   "Speaker": "Peter Kananen",
+   "Target Audience": "Intermediate",
+   "Genre": "Agile Methodologies",
+   "Is Vendor Session": "No",
+   "Keynote": "No",
+   "Copresenters": ""
+ },
+ {
+   "Title": "Integrate All the Things: PowerApps and Microsoft Flow for Developers",
+   "Speaker": "Brian T. Jackett",
+   "Target Audience": "Intermediate",
+   "Genre": "Other",
+   "Is Vendor Session": "No",
+   "Keynote": "No",
+   "Copresenters": ""
+ },
+ {
+   "Title": "Kanban Board: \"You Say It Best When You Say Nothing At All\"",
+   "Speaker": "Mike Ritchie",
+   "Target Audience": "Introduction",
+   "Genre": "Agile Methodologies",
+   "Is Vendor Session": "No",
+   "Keynote": "No",
+   "Copresenters": "Sydney Johnson"
+ },
+ {
+   "Title": "Kanban for Everything - Managing Software Projects to Binging Netflix",
+   "Speaker": "Kat Tornwall",
+   "Target Audience": "General",
+   "Genre": "Agile Methodologies",
+   "Is Vendor Session": "No",
+   "Keynote": "No",
+   "Copresenters": ""
+ },
+ {
+   "Title": "Leaders are Made, Not Born",
+   "Speaker": "Phil Japikse",
+   "Target Audience": "General",
+   "Genre": "Other",
+   "Is Vendor Session": "No",
+   "Keynote": "Yes",
+   "Copresenters": ""
+ },
+ {
+   "Title": "Loving Estimation: Maintaining Safety with our Terrible Terrible Guesses",
+   "Speaker": "Michael Rogers",
+   "Target Audience": "Intermediate",
+   "Genre": "Agile Methodologies",
+   "Is Vendor Session": "No",
+   "Keynote": "No",
+   "Copresenters": ""
+ },
+ {
+   "Title": "My Agile Journey: What I Learned About Agile That I Couldn’t Learn From a Book",
+   "Speaker": "Chris Shinkle",
+   "Target Audience": "Intermediate",
+   "Genre": "Agile Methodologies",
+   "Is Vendor Session": "No",
+   "Keynote": "No",
+   "Copresenters": ""
+ },
+ {
+   "Title": "My Team is Awesome And Yours is Too",
+   "Speaker": "Kevin Miller",
+   "Target Audience": "General",
+   "Genre": "Agile Experiences",
+   "Is Vendor Session": "No",
+   "Keynote": "No",
+   "Copresenters": ""
+ },
+ {
+   "Title": "Opening Remarks",
+   "Speaker": "Phil Japikse",
+   "Target Audience": "General",
+   "Genre": "Other",
+   "Is Vendor Session": "No",
+   "Keynote": "No",
+   "Copresenters": ""
+ },
+ {
+   "Title": "Put Some FP in Your OOP",
+   "Speaker": "Michael Richardson",
+   "Target Audience": "Intermediate",
+   "Genre": "Web Development",
+   "Is Vendor Session": "No",
+   "Keynote": "No",
+   "Copresenters": ""
+ },
+ {
+   "Title": "Querying NoSQL with SQL: HAVING Your JSON Cake and SELECTing it too",
+   "Speaker": "Matthew Groves",
+   "Target Audience": "Intermediate",
+   "Genre": "Other",
+   "Is Vendor Session": "No",
+   "Keynote": "No",
+   "Copresenters": ""
+ },
+ {
+   "Title": "React And Your .NET Core MVC App",
+   "Speaker": "Lee Brandt",
+   "Target Audience": "Introduction",
+   "Genre": "Web Development",
+   "Is Vendor Session": "No",
+   "Keynote": "No",
+   "Copresenters": ""
+ },
+ {
+   "Title": "Scrum is Agile; Agile is NOT Scrum",
+   "Speaker": "Heather Tooill",
+   "Target Audience": "General",
+   "Genre": "Agile Methodologies",
+   "Is Vendor Session": "No",
+   "Keynote": "No",
+   "Copresenters": ""
+ },
+ {
+   "Title": "Scrum Master Evolution",
+   "Speaker": "Robert English",
+   "Target Audience": "Intermediate",
+   "Genre": "Agile Experiences",
+   "Is Vendor Session": "No",
+   "Keynote": "No",
+   "Copresenters": ""
+ },
+ {
+   "Title": "The Elephant in the Room is Wearing a Red Hat",
+   "Speaker": "Britta August",
+   "Target Audience": "General",
+   "Genre": "Scaling/Transformational Agile",
+   "Is Vendor Session": "No",
+   "Keynote": "No",
+   "Copresenters": ""
+ },
+ {
+   "Title": "Transformation from the trenches; an agile tale in progress",
+   "Speaker": "Amber Steedle",
+   "Target Audience": "Intermediate",
+   "Genre": "Scaling/Transformational Agile",
+   "Is Vendor Session": "No",
+   "Keynote": "No",
+   "Copresenters": ""
+ },
+ {
+   "Title": "Twice the burnout in half the time: how not to plan a sprint",
+   "Speaker": "Jon Fazzaro",
+   "Target Audience": "General",
+   "Genre": "Agile Methodologies",
+   "Is Vendor Session": "No",
+   "Keynote": "No",
+   "Copresenters": ""
+ },
+ {
+   "Title": "UI Design in Agile",
+   "Speaker": "Peter Gajos",
+   "Target Audience": "General",
+   "Genre": "Cloud Computing",
+   "Is Vendor Session": "Yes",
+   "Keynote": "No",
+   "Copresenters": ""
+ }
+]
