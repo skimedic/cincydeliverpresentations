@@ -3,7 +3,7 @@
 **Jon Fazzaro**  
 Software Architect / 
 Full Stack Agile Coach, 
-[Aptera](http://apterainc.com)  
+[Aptera](https://www.apterainc.com/)  
 [@jonfazzaro](https://twitter.com/jonfazzaro)  
 
 We've got this Scrum thing down, right? Put the requirements doc in the backlog, build it out two weeks at a time, and have stand-ups. Voilà, twice the work in half the time. 
