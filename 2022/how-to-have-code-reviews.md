@@ -1,0 +1,1 @@
+Slides and resources can be found  [https://blog.thesoftwarementor.com/presentations/#CodeReviews](here)
